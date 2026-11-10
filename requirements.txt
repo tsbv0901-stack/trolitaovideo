@@ -1,0 +1,4 @@
+python-telegram-bot==20.7
+edge-tts==6.1.9
+gTTS==2.5.1
+Pillow==10.3.0
